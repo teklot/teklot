@@ -1,5 +1,3 @@
-# teklot
-
 Building open-source software at the intersection of **.NET, engineering, hardware, and data systems**.
 
 My work spans software from **embedded and edge devices to distributed backends and engineering applications**.
@@ -8,10 +6,10 @@ My work spans software from **embedded and edge devices to distributed backends 
 
 ### Engineering, Robotics & Hardware
 
+* **[MavlinkSharp](https://github.com/teklot/MavlinkSharp)** — MAVLink communication for modern .NET applications.
 * **[SignalFlux](https://github.com/teklot/SignalFlux)** — A .NET domain model for engineering data, signals, measurements, and systems.
 * **[SignalBench](https://github.com/teklot/SignalBench)** — A telemetry workbench for aerospace, automotive, satellite, and industrial systems.
 * **[HelixForge](https://github.com/teklot/HelixForge)** — Hardware abstraction for .NET, making real and simulated hardware interchangeable.
-* **[MavlinkSharp](https://github.com/teklot/MavlinkSharp)** — MAVLink communication for modern .NET applications.
 
 ### .NET & Application Infrastructure
 
