@@ -1,6 +1,8 @@
-Building open-source software at the intersection of **.NET, engineering, hardware, and data systems**.
+Software engineer building **practical systems at the intersection of software, engineering, and the physical world**.
 
-My work spans software from **embedded and edge devices to distributed backends and engineering applications**.
+My work spans **application architecture, distributed systems, data and communication systems, developer tools, engineering software, and hardware/software integration**, from low-level interfaces and protocols to cloud-based applications and services.
+
+I enjoy solving **complex engineering problems through software**: designing useful abstractions, connecting systems, working with data, and building **reliable tools that make sophisticated systems easier to develop, test, simulate, and operate**.
 
 ## Open Source
 
@@ -15,6 +17,7 @@ My work spans software from **embedded and edge devices to distributed backends 
 
 * **[Crestful](https://github.com/teklot/Crestful)** — A convention-driven approach to building REST APIs with ASP.NET Core.
 * **[FluentHtml](https://github.com/teklot/FluentHtml)** — Fluent server-rendered HTML for .NET with Bootstrap and HTMX.
+* **[MailForge](https://github.com/teklot/MailForge)** — A unified, provider-agnostic transactional communication ecosystem for .NET.
 
 ## Areas of Interest
 
