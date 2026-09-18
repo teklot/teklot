@@ -1,6 +1,6 @@
-Software engineer building **practical systems at the intersection of software, engineering, and the physical world**.
+Software engineer building **practical systems at the intersection of software, engineering, science, and the physical world**.
 
-My work spans **application architecture, distributed systems, data and communication systems, developer tools, engineering software, and hardware/software integration**, from low-level interfaces and protocols to cloud-based applications and services.
+My work spans **application architecture, distributed systems, data and communication systems, developer tools, scientific and engineering software, and hardware/software integration**, from low-level interfaces and protocols to cloud-based applications and services.
 
 I enjoy solving **complex engineering problems through software**: designing useful abstractions, connecting systems, working with data, and building **reliable tools that make sophisticated systems easier to develop, test, simulate, and operate**.
 
@@ -12,6 +12,10 @@ I enjoy solving **complex engineering problems through software**: designing use
 * **[SignalFlux](https://github.com/teklot/SignalFlux)** — A .NET domain model for engineering data, signals, measurements, and systems.
 * **[SignalBench](https://github.com/teklot/SignalBench)** — A telemetry workbench for aerospace, automotive, satellite, and industrial systems.
 * **[HelixForge](https://github.com/teklot/HelixForge)** — Hardware abstraction for .NET, making real and simulated hardware interchangeable.
+
+### Scientific & Computational Biology
+
+* **[Genomics](https://github.com/teklot/genomics)** — A high-performance, composable genomics foundation for .NET, accompanying **Genomics for Software Engineers** course.
 
 ### .NET & Application Infrastructure
 
